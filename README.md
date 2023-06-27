@@ -9,3 +9,4 @@
 ![Screenshot (135)](https://github.com/SpandanBandhu/Credit_Card_Fraud_Detection/assets/96427941/52a4e418-3d77-4a0e-be09-d7798171d18e)
 ![Screenshot (138)](https://github.com/SpandanBandhu/Credit_Card_Fraud_Detection/assets/96427941/2499d62d-0414-46da-84e4-44e2a264534f)
 ![Screenshot (142)](https://github.com/SpandanBandhu/Credit_Card_Fraud_Detection/assets/96427941/c34c4aa6-cb15-4d99-b291-c1beb902bc8b)
+![Screenshot (145)](https://github.com/SpandanBandhu/Credit_Card_Fraud_Detection/assets/96427941/1221d0b3-5a6e-49ff-be99-d1fbc1533ea6)
